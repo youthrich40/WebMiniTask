@@ -2,6 +2,21 @@
 simple data req/res over web connection with PHP
 
  Developer: Saejong Jang
+ 
+ Environment: 
+ Editor => VSCode
+ Server => Apache(localhost running on Xampp) 
+ Language => PHP
+
+ Sources used:
+ php.net manual for methods => file_get_contents and json_decode.
+ w3schools and stackoverflow => applying php array and json parsing.
+
+ List the HTTP requests and responses:
+ file_get_contents(Http GET request only) => fetch the URL(http://gmc.lingotek.com/language) and return response the contents as a JSON string.
+ Needed json_decode method to return the value encoded in json in appropriate PHP type.
+ response => Key = String(i.e., "ko", "en"), Value = Array(i.e., "language")
+ $status_code[0] => shows http connection status 200:success, 404:not found, 400: bad request, 403:forbidden, 504: service unavilable.
 
 output:
  
@@ -60,21 +75,8 @@ Key=tr, Value=Turkish
 Key=zh, Value=Chinese
  
  Spoke English for about 5 years
+ 
  My native language is Korean
+ 
  Currently working on my Chinese about 1 year.
-
- Environment: 
- Editor => VSCode
- Server => Apache(localhost running on Xampp) 
- Language => PHP
-
- Sources used:
- php.net manual for methods => file_get_contents and json_decode.
- w3schools and stackoverflow => applying php array and json parsing.
-
- List the HTTP requests and responses:
- file_get_contents(Http GET request only) => fetch the URL(http://gmc.lingotek.com/language) and return response the contents as a JSON string.
- Needed json_decode method to return the value encoded in json in appropriate PHP type.
- response => Key = String(i.e., "ko", "en"), Value = Array(i.e., "language")
- $status_code[0] => shows http connection status 200:success, 404:not found, 400: bad request, 403:forbidden, 504: service unavilable.
  
