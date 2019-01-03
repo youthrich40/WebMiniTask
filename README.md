@@ -7,57 +7,32 @@ simple data req/res over web connection with PHP
  
  200
  
- Key=ar, Value=Arabic
- 
- Key=ca, Value=Catalan
- 
- Key=cs, Value=Czech
- 
- Key=da, Value=Danish
- 
- Key=de, Value=German
- 
- Key=el, Value=Greek
- 
- Key=en, Value=English
- 
- Key=es, Value=Spanish
- 
- Key=fi, Value=Finnish
- 
- Key=fr, Value=French
- 
- Key=hu, Value=Hungarian
- 
- Key=id, Value=Indonesian
- 
- Key=it, Value=Italian
- 
- Key=iw, Value=Hebrew
- 
- Key=ja, Value=Japanese
- 
- Key=ko, Value=Korean
- 
- Key=lt, Value=Malay
- 
- Key=nl, Value=Dutch
- 
- Key=no, Value=Persian
- 
- Key=pl, Value=Polish
- 
- Key=pt, Value=Portuguese
- 
- Key=ru, Value=Russian
- 
- Key=sv, Value=Swedish
- 
- Key=th, Value=Thai
- 
- Key=tr, Value=Turkish
- 
- Key=zh, Value=Chinese
+Key=ar, Value=Arabic
+Key=ca, Value=Catalan
+Key=cs, Value=Czech
+Key=da, Value=Danish
+Key=de, Value=German
+Key=el, Value=Greek
+Key=en, Value=English
+Key=es, Value=Spanish
+Key=fi, Value=Finnish
+Key=fr, Value=French
+Key=hu, Value=Hungarian
+Key=id, Value=Indonesian
+Key=it, Value=Italian
+Key=iw, Value=Hebrew
+Key=ja, Value=Japanese
+Key=ko, Value=Korean
+Key=lt, Value=Malay
+Key=nl, Value=Dutch
+Key=no, Value=Persian
+Key=pl, Value=Polish
+Key=pt, Value=Portuguese
+Key=ru, Value=Russian
+Key=sv, Value=Swedish
+Key=th, Value=Thai
+Key=tr, Value=Turkish
+Key=zh, Value=Chinese
  
  Spoke English for about 5 years
  My native language is Korean
