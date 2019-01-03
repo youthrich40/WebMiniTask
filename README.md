@@ -10,6 +10,7 @@ simple data req/res over web connection with PHP
 
  Sources used:
  php.net manual for methods => file_get_contents and json_decode.
+ 
  w3schools and stackoverflow => applying php array and json parsing.
 
  List the HTTP requests and responses:
