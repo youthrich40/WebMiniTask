@@ -4,11 +4,13 @@ simple data req/res over web connection with PHP
  Developer: Saejong Jang
  
  Environment: 
+ 
  Editor => VSCode
  Server => Apache(localhost running on Xampp) 
  Language => PHP
 
  Sources used:
+ 
  php.net manual for methods => file_get_contents and json_decode.
  
  w3schools and stackoverflow => applying php array and json parsing.
