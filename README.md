@@ -5,15 +5,14 @@ simple data req/res over web connection with PHP
  
  Environment: 
  
- Editor => VSCode
- Server => Apache(localhost running on Xampp) 
- Language => PHP
+ #Editor => VSCode
+ #Server => Apache(localhost running on Xampp) 
+ #Language => PHP
 
  Sources used:
  
- php.net manual for methods => file_get_contents and json_decode.
- 
- w3schools and stackoverflow => applying php array and json parsing.
+ #php.net manual for methods => file_get_contents and json_decode.
+ #w3schools and stackoverflow => applying php array and json parsing.
 
  List the HTTP requests and responses:
  file_get_contents(Http GET request only) => fetch the URL(http://gmc.lingotek.com/language) and return response the contents as a JSON string.
